@@ -48,6 +48,6 @@ def self.new_from_filename(name)
     song
   end
   
-  
+def create_
 
 end
