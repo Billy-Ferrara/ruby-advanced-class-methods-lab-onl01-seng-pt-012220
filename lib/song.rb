@@ -56,6 +56,6 @@ def create_from_filename(name)
     song
   end
   
-  
+  def.self
 
 end
